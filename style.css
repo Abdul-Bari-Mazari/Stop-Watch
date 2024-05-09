@@ -1,0 +1,53 @@
+/* Cursor style */
+
+body {
+  background-color: rgb(206, 206, 206) !important;
+}
+
+.cursor-default {
+  cursor: default;
+}
+
+/* Containers */
+
+.main-container {
+  height: 100vh;
+}
+
+.container {
+  padding: 0px !important;
+}
+
+/* Timer and Stopwatch */
+
+#timerHeading {
+  border-bottom: 2px solid blue;
+  color: blue;
+}
+
+/* Digit Size */
+
+.size {
+  font-size: 52px !important;
+}
+
+/* Buttons */
+
+.buttons {
+  font-size: small;
+}
+
+.buttons button {
+  padding: 6px 18px;
+  border-radius: 1px;
+}
+
+.start-btn {
+  background-color: rgb(138, 180, 248);
+  color: rgb(68, 71, 70);
+}
+
+.reset-btn {
+  background-color: rgb(189, 193, 198);
+  color: rgb(68, 71, 70);
+}
